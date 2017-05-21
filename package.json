@@ -31,8 +31,8 @@
   },
   "browserslist": "electron 1.6",
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.develar.ElectronReact",
+    "productName": "itm-gui",
+    "appId": "com.slavikmanukyan.itmgui",
     "files": [
       "dist/",
       "node_modules/",
@@ -181,8 +181,10 @@
     "font-awesome": "^4.7.0",
     "history": "^4.6.1",
     "react": "^15.5.4",
+    "react-desktop": "^0.3.0",
     "react-dom": "^15.5.4",
     "react-hot-loader": "3.0.0-beta.6",
+    "react-photonkit": "^0.4.1",
     "react-redux": "^5.0.4",
     "react-router": "^4.1.1",
     "react-router-dom": "^4.1.1",
